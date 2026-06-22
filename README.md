@@ -75,11 +75,7 @@ gesture-camera/
 ├── requirements.txt           # Daftar library
 ├── README.md                  # Dokumentasi proyek
 ├── .gitignore                 # File yang diabaikan Git
-└── demo/                      # Folder untuk demo
-    ├── demo_1_spotlight.gif
-    ├── demo_2_blur.gif
-    └── demo_3_sketch.gif
-```
+
 
 ## 🚀 Pengembangan Selanjutnya
 
@@ -94,4 +90,4 @@ MIT License
 
 ---
 
-**Dibuat dengan ❤️ oleh [Syahidi Rahman]**
+**Dibuat oleh Syahidi Rahman**
