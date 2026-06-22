@@ -75,7 +75,7 @@ gesture-camera/
 ├── requirements.txt           # Daftar library
 ├── README.md                  # Dokumentasi proyek
 ├── .gitignore                 # File yang diabaikan Git
-
+```
 
 ## 🚀 Pengembangan Selanjutnya
 
