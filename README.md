@@ -26,7 +26,7 @@ Proyek ini adalah aplikasi kamera interaktif yang merespons gestur tangan untuk 
 ### 1. Clone Repository
 
 ```bash
-git clone [https://github.com/username/gesture-camera.git](https://github.com/syahidirahman/gesture_camera.git  )
+git clone https://github.com/syahidirahman/gesture_camera.git  
 cd gesture-camera
 ```
 
